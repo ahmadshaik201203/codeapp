@@ -1,0 +1,6 @@
+{
+  "name": "CodeVerse",
+  "description": "AI-Powered Learning, Career Readiness & AgentForge Multi-Agent Software Development Platform for College Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
